@@ -11,7 +11,7 @@ The rule of Langton’s Ant is very simple: the ant is placed onto the board tha
 
 After that the ant moves to the next step and continue moving forward. The ant will follow these rules, and continue moving around the board, until the number of steps runs out.
 
-## Installing
+## Installing and Running the Program
 
 Compile the program with this command:
 
